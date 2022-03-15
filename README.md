@@ -26,6 +26,7 @@ Estágiário de Desenvolvimento WEB HTML, CSS, JavaScript, PHP e Laravel na [Íp
 Sistemas Operacionais:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 
 IDEs | Editores:
 

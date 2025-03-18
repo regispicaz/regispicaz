@@ -16,7 +16,9 @@ Trabalho com tecnologia desde 2010 passando desde manutenção instalação e co
 
 ## Experiências:
 Desenvolvedor de Software Jr. [ProbY](https://proby.online/pt) - 2025 - atual.
-Fundador [Ecossistemas](https://ecossistemas.tech) - 2020 - atual.
+
+Fundador [Ecossistemas](https://ecossistemas.tech)  - Desenvolvimento e Gestão de Sistemas  - 2020 - atual.
+
 Estágiário de Desenvolvimento WEB HTML, CSS, JavaScript, PHP e Laravel na [Ípsillon.cc](https://ipsillon.cc) - 2022 - 2023.
 
 ## Onde me encontrar:

@@ -1,92 +1,193 @@
 # Régis Picáz
 
+**Founder & CTO at [Ecossistemas](https://ecossistemas.online)**  
+**Scrum Master & QA Engineer at [ProbY Global](https://www.proby.online)**
+
+I work at the intersection of software engineering, quality assurance, agile delivery, and technical leadership.
+
+My professional focus is building reliable digital products, improving software delivery processes, and creating practical quality strategies that support teams throughout the development lifecycle.
+
+Based in Bagé, Rio Grande do Sul, Brazil.
+
+---
+
 ## About Me
 
-I am Régis Picáz, based in **Bagé, Rio Grande do Sul, Brazil**, and hold a degree in **Systems Analysis and Development** from the **University of the Campanha Region (URCAMP)**.
+I have worked with technology since 2010, beginning with computer maintenance, operating system installation, network configuration, and technical support.
 
-I have been working in technology since **2010**, starting with **computer maintenance, installation, and network configuration**, and evolving into **software development**, **agile team facilitation**, **quality assurance**, and **process improvement**.
+Over time, I transitioned into web development and software engineering, working primarily with PHP, Laravel, JavaScript, relational databases, and modern development workflows.
 
-Currently, I work as a **Scrum Master, QA Engineer, and Web Developer**, combining technical expertise, agile practices, and quality-focused thinking to deliver reliable, scalable, and business-aligned software solutions. I actively use **AI agents** to support development, automation, and optimization of workflows throughout the software lifecycle.
+Today, I divide my work between two main areas:
 
----
+- At **Ecossistemas**, I work as Founder and CTO, leading software development, systems management, technical solutions, and infrastructure projects.
+- At **ProbY Global**, I work as Scrum Master and QA Engineer, supporting product quality, agile delivery, release validation, process improvement, and collaboration between engineering and product teams.
 
-## Tech Stack & Skills
-
-### 💻 Backend & Web Development
-
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-### 🎨 Frontend
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
-### ⚙️ DevOps & Environment
-
-[![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Git](https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
+My approach combines technical analysis, quality engineering, risk management, and continuous improvement.
 
 ---
 
-## Agile, Quality & AI
+## Core Expertise
 
-### 🧭 Agile & Scrum
+### Software Quality
 
-[![Scrum](https://img.shields.io/badge/Scrum-Agile-blue?style=for-the-badge)]()
-[![Scrum Master](https://img.shields.io/badge/Scrum_Master-Role-green?style=for-the-badge)]()
-[![Agile](https://img.shields.io/badge/Agile-Methodology-brightgreen?style=for-the-badge)]()
+- Quality assurance strategy and risk-based testing
+- Functional, regression, integration, and exploratory testing
+- Test planning, execution, and traceability
+- Requirements and acceptance criteria validation
+- Release gates and production readiness assessment
+- Defect analysis, classification, and reporting
+- QA documentation and evidence management
+- Automated test design and maintenance
 
-- Sprint Planning, Review & Retrospective  
-- Backlog Management & Refinement  
-- Metrics Tracking & Continuous Improvement  
-- Impediment Removal & Team Facilitation  
+### Agile Delivery
 
-### 🧪 Quality Assurance (QA)
+- Scrum facilitation and team coordination
+- Sprint planning, reviews, and retrospectives
+- Backlog refinement and workflow organization
+- Delivery risk identification
+- Cross-functional communication
+- Process improvement and impediment removal
+- Definition of Done and quality policies
+- Metrics and delivery monitoring
 
-[![QA](https://img.shields.io/badge/QA-Engineering-orange?style=for-the-badge)]()
-[![Software Testing](https://img.shields.io/badge/Software_Testing-Quality-red?style=for-the-badge)]()
+### Software Engineering
 
-- Test Planning & Execution  
-- Functional & Exploratory Testing  
-- Requirements Validation  
-- Defect Prevention & Quality Mindset  
+- Backend development with PHP and Laravel
+- REST APIs and application integrations
+- Relational database modeling
+- Authentication and authorization
+- Frontend development with JavaScript and React
+- Automated testing and continuous integration
+- Linux-based development environments
+- Dockerized application workflows
 
-### 🤖 AI-Assisted Development
+### Technical Leadership
 
-[![AI](https://img.shields.io/badge/AI-Assisted_Development-black?style=for-the-badge)]()
-[![Automation](https://img.shields.io/badge/Automation-Processes-purple?style=for-the-badge)]()
+- Technical decision-making
+- Product and engineering alignment
+- Software architecture planning
+- Development workflow standardization
+- AI-assisted software development
+- Internal documentation and operational processes
+- Technical consulting and solution design
 
-- AI Agents for Development Support  
-- Workflow Automation  
-- Productivity & Decision Support  
-- Continuous Optimization  
+---
+
+## Technology Stack
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Quality and Automation
+
+![PHPUnit](https://img.shields.io/badge/PHPUnit-6C4F7C?style=flat-square&logo=php&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### Environment and Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ## Professional Experience
 
-**Scrum Master | QA Engineer | Junior Software Developer**  
-[ProbY](https://proby.online/pt) — **2025 · Present**
+### Ecossistemas
 
-**Founder | Web Developer**  
-[Ecossistemas](https://ecossistemas.tech) — Systems Development & Management — **2020 · Present**
+**Founder & CTO**  
+2020 — Present
+
+Technology company focused on software development, systems management, digital solutions, and network infrastructure.
+
+Main responsibilities:
+
+- Technical and product leadership
+- Software architecture and development
+- Project planning and delivery
+- Client requirements analysis
+- Infrastructure and systems consulting
+- Internal process definition
+- Technical documentation
+- Product maintenance and evolution
+
+### ProbY Global
+
+**Scrum Master & QA Engineer**  
+2025 — Present
+
+I support software quality and agile delivery across the product development lifecycle.
+
+Main responsibilities:
+
+- QA planning and release validation
+- Functional and regression testing
+- Acceptance criteria analysis
+- Test scenario and evidence documentation
+- Defect management and prioritization
+- Sprint ceremonies and backlog refinement
+- Delivery risk analysis
+- Collaboration between product, engineering, and quality
+- Definition and improvement of QA workflows
+- Support for automated testing initiatives
+
+Previously worked as a **Junior Software Developer**, contributing to the development and maintenance of Laravel-based products.
+
+### Ípsillon
 
 **Web Development Intern**  
-HTML, CSS, JavaScript, PHP & Laravel  
-[Ípsillon.cc](https://ipsillon.cc) — **2022 · 2023**
+2022 — 2023
+
+Worked with web development, PHP, Laravel, JavaScript, HTML, CSS, and application maintenance.
 
 ---
 
-## Connect with Me
+## Current Focus
 
-You can find me online as **@regispicaz**:
+I am currently focused on:
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/regispicaz)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/regispicaz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/regispicaz)
+- Software quality engineering
+- Automated testing strategies
+- Laravel application architecture
+- Agile delivery optimization
+- AI-assisted development workflows
+- QA documentation and traceability
+- Reliable and maintainable product delivery
+
+---
+
+## Selected Projects
+
+The repositories pinned below represent selected work involving:
+
+- Laravel applications
+- REST API development
+- Automated testing
+- Quality assurance workflows
+- Web interfaces
+- Technical documentation
+- Continuous integration
+- Software architecture experiments
+
+Each featured repository should provide clear installation instructions, technical documentation, test commands, and project status.
+
+---
+
+## Principles
+
+```text
+Quality is not a final step.
+It is a continuous engineering responsibility.

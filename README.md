@@ -49,7 +49,7 @@ I am also the Founder and CTO of Ecossistemas, where I contribute to technical p
 ### Quality and Delivery
 
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-6C4F7C?style=flat-square&logo=php&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Laravel Dusk](https://img.shields.io/badge/Dusk-E2E%20Testing-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
